@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(0, 27, 77, 0.823);
+    font-size: 40px;
+    margin:50px;
+}
+
+
+.List-grid{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr; 
+    gap: 50px;
+}
+.load-button{
+    
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

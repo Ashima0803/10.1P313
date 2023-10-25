@@ -1,0 +1,28 @@
+.newsletter{
+    background-color: rgb(199, 230, 244);
+    padding:10px 0px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.text{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: rgb(11, 51, 75);
+
+}
+.email{
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 25px;
+    
+}
+.button{
+    margin: 5px;
+    
+}
+
